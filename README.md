@@ -36,17 +36,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-
- 
-<div id="text"></div>
- 
-<script 
-type="text/javascript" src="https://www.abair.tcd.ie/webreader/scripts/abair_tts_webui.js">
-</script>
-
-<body>
-
-<h1>lack of a heading</h1>
-<p>Chuaigh me chun aonaigh is dhíol mé mo bhó, Ar chuig phunta airgid is ar ghiní bhuí óir. Má ólaim an t-airgead is má bhronnaim an t-ór, Ó caidé sin don té sin nach mbaineann sin dó</p>
-
-</body>
