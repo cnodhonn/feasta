@@ -40,7 +40,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  
 <div id="text"></div>
  
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
+<script 
+type="text/javascript" src="https://www.abair.tcd.ie/webreader/scripts/abair_tts_webui.js">
 </script>
- 
+
+<body>
+
+<h1>lack of a heading</h1>
+<p>Chuaigh me chun aonaigh is dhíol mé mo bhó, Ar chuig phunta airgid is ar ghiní bhuí óir. Má ólaim an t-airgead is má bhronnaim an t-ór, Ó caidé sin don té sin nach mbaineann sin dó</p>
+
+</body>
